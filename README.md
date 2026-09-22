@@ -210,4 +210,4 @@ WebCam Companion is offered as a full free version, including all features and u
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-22 00:31:32 UTC
+**Last updated:** 2026-09-22 05:46:41 UTC
